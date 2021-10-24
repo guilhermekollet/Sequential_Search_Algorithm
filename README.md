@@ -38,3 +38,8 @@
 </div>
  <p>Conhecimento adquirido com a disciplina de Algoritmo e Estruturas de Dados I em <b>PUCRS</b> pelo professor <b>Márcio Pinho</b> no 2º semestre de 2021.</p>
  <b>Aceito contribuições que regem ao objetivo do algoritmo. Network via email disponibilizado neste repositório.</b>
+ 
+ <h2>Output</h2>
+ <div align="center">
+<img height="300em" src="https://raw.githubusercontent.com/guilhermekollet/Sequential_Search_Algorithm/main/images/output.png">
+</div>
