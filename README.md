@@ -29,4 +29,4 @@
  <a href="https://www.inf.pucrs.br/~pinho/" target="_blank"><img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a> 
 </div>
  <p>Conhecimento adquirido com a disciplina de Algoritmo e Estruturas de Dados I em <b>PUCRS</b> pelo professor <b>Márcio Pinho</b> no 2º semestre de 2021.</p>
- <b>Será ceito contribuições que regem ao objetivo do algoritmo.</b>
+ <b>Aceito contribuições que regem ao objetivo do algoritmo.</b>
