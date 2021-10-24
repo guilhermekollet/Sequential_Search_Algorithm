@@ -41,5 +41,5 @@
  
  <h2>Output</h2>
  <div align="center">
-<img height="300em" src="https://raw.githubusercontent.com/guilhermekollet/Sequential_Search_Algorithm/main/images/output.png">
+<img height="600em" src="https://raw.githubusercontent.com/guilhermekollet/Sequential_Search_Algorithm/main/images/output.png">
 </div>
