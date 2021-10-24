@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635083765 source:v:\codes\c++\gerando_numeros_randomicos\algoritmo\main.cpp
+	<iostream>
+	<array>
+
