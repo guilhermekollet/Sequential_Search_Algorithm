@@ -13,19 +13,19 @@ using namespace std;
 bool busca(int v, int vet[],int tam, bool log){
 int i = 0;
 int posicao = 0;
-cout << "Valor a ser pesquisado: "<< v << endl;
-cout << "Quantidade de itens no vetor: " << tam << endl << endl;
+cout << "\n  Valor a ser pesquisado: "<< v << endl;
+cout << "  Quantidade de itens no vetor: " << tam << endl << endl;
 
     for ( i = 0; i < tam; i++){
 
         if ( log == true ){
 
-                cout << "Position: " << posicao << " | Number: " << vet[i];
+                cout << "  Position: " << posicao << " | Number: " << vet[i];
         }
         //validação
         if (v == vet[i]){
             if ( log == true ) cout << " - Valor encontrado!" << endl << endl;
-            cout << "Quantidade de buscas percorridas: " << posicao << endl;
+            cout << "  Quantidade de buscas percorridas: " << posicao << endl;
             return true;
 
         } else {
@@ -53,9 +53,9 @@ int tam = sizeof(A)/sizeof(int);
 bool busca_return = busca(valor, A, tam, log); //valor a ser pesquisado, vetor inteiro passado, tamanho do vetor calculado e comando de exibição de texto.
 
 if (busca_return == true) {
-    cout << "\nValor encontrado no Array" << endl;
+    cout << "\n  Valor encontrado no Array" << endl;
 } else {
-    cout << "\nValor inexistente no Array" << endl;
+    cout << "\n  Valor inexistente no Array" << endl;
 return 0;
 
     }
